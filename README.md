@@ -1,4 +1,4 @@
-# 阿杜的家常菜（Chenliang Home Dishes）
+# 阿杜的家常菜（adu home dishes）
 [![在线阅读](https://img.shields.io/badge/在线阅读-GitHub%20Pages-blue?logo=github)](https://sapchen.github.io/adu-home-dishes/)
 [![许可证](https://img.shields.io/badge/许可证-CC%20BY--SA%204.0-green)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![欢迎贡献](https://img.shields.io/badge/欢迎贡献-PRs%20Welcome-brightgreen)](https://makeapullrequest.com)
