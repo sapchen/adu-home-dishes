@@ -1,0 +1,11 @@
+{
+  "name": "adu-home-dishes",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve",
+    "install": "honkit install"
+  },
+  "devDependencies": {
+    "honkit": "^4.0.0"
+  }
+}

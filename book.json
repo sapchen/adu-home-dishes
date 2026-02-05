@@ -1,0 +1,20 @@
+{
+  "title": "阿杜的家常菜",
+  "author": "dy0604",
+  "description": "记录开发出阿杜家常见的家常菜肴的过程",
+  "language": "zh",
+  "root": ".",
+  "styles": {
+    "website": "styles/website.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": [
+    "theme-default"
+  ],
+  "variables": {
+    "theme": "default",
+    "theme-default": {
+      "body-background": "#fcfcfc"
+    }
+  }
+}
