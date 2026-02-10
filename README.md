@@ -7,18 +7,20 @@
 杜洋出品，记录其在烧菜路上一路成长的过程。
 
 ## 仓库
-**在线访问**： [https://sapchen.github.io/adu-home-dishes/](https://sapchen.github.io/adu-home-dishes/)
+**Github Pages在线访问**： [https://sapchen.github.io/adu-home-dishes/](https://sapchen.github.io/adu-home-dishes/)
 
 **项目Github源地址**： [https://github.com/sapchen/adu-home-dishes/](https://github.com/sapchen/adu-home-dishes/)
 
 ## 本地构建
 **克隆仓库**： git clone https://github.com/sapchen/adu-home-dishes.git
 
-**安装nodejs**： choco install nodejs-lts
+**安装nodejs**： winget install OpenJS.NodeJS.LTS
 
 **安装honkit**： npm install -g honkit
 
-**部署本地http服务**： honkit serve
+**本地开发**： honkit serve
+
+**生产构建**： honkit build
 
 **生成Epub文件**： honkit epub ./ ./阿杜的家常菜.epub
 
